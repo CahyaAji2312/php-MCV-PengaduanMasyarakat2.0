@@ -11,7 +11,6 @@ Aplikasi ini dibuat untuk memfasilitasi masyarakat dalam menyampaikan laporan at
 - 📬 Tanggapan laporan oleh petugas
 - 📊 Statistik laporan dan pengguna
 - 📄 Ekspor laporan ke PDF
-- 🌗 Tampilan dark mode dan light mode
 
 ## 📁 Struktur Folder
 
