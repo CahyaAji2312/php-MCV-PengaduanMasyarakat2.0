@@ -60,6 +60,9 @@ Aplikasi ini dibuat untuk memfasilitasi masyarakat dalam menyampaikan laporan at
     JavaScript
     mPDF (untuk ekspor PDF)
 
+👨‍💻 Kontributor
+    Cahya Aji Saputra (20230801222) — Developer Utama
+
 ##  Link Hosting
 
         TrinityFree
@@ -68,5 +71,3 @@ https://pengaduan-masyarakat.ct.ws/
         NGROK
 https://4fe583b3cd91.ngrok-free.app/pengaduan_Masyarakat2.0/
 
-👨‍💻 Kontributor
-    Cahya Aji Saputra (20230801222) — Developer Utama
